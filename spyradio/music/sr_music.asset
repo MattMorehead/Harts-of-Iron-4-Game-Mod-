@@ -1,0 +1,107 @@
+music = {
+	name = "beginning_to_see"
+	file = "sr_beginning_to_see.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "born_again"
+	file = "sr_born_again.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "enemy"
+	file = "sr_enemy.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "epic_build_up"
+	file = "sr_epic_build_up.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "father_forgive_them"
+	file = "sr_father_forgive_them.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "forever"
+	file = "sr_forever.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "his_fight_is_over"
+	file = "sr_his_fight_is_over.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "i_am_iron"
+	file = "sr_i_am_iron.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "motivation"
+	file = "sr_motivation.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "please_dont_cry"
+	file = "sr_please_dont_cry.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "powerful"
+	file = "sr_powerful.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "radiance"
+	file = "sr_radiance.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "tears_and_joy"
+	file = "sr_tears_and_joy.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "the_fire_of_the_storm"
+	file = "sr_the_fire_of_the_storm.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "trouble_is_brewing"
+	file = "sr_trouble_is_brewing.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "victory"
+	file = "sr_victory.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "villainous"
+	file = "sr_villainous.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "without_god"
+	file = "sr_without_god.ogg"
+	volume = 0.60
+}

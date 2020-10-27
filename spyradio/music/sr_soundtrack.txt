@@ -1,0 +1,95 @@
+# Songs from David Fesliyan 
+# Royalty free music from https://www.fesliyanstudios.com
+# https://www.youtube.com/fesliyanstudios
+
+music_station = "spyradio"
+
+music = {
+	song = "sr_beginning_to_see"
+			
+}
+
+music = {
+	song = "sr_born_again"
+	
+}
+
+music = {
+	song = "sr_enemy"
+	
+}
+
+music = {
+	song = "sr_epic_build_up"	
+}
+
+music = {
+	song = "sr_father_forgive_them"
+	
+}
+
+music = {
+	song = "sr_forever"
+	
+}
+
+music = {
+	song = "sr_his_fight_is_over"
+	
+}
+
+music = {
+	song = "sr_i_am_iron"
+	
+}
+
+music = {
+	song = "sr_motivation"
+	
+}
+
+music = {
+	song = "sr_please_dont_cry"
+	
+}
+
+music = {
+	song = "sr_powerful"
+	
+}
+
+music = {
+	song = "sr_radiance"
+	
+}
+
+music = {
+	song = "sr_tears_and_joy"
+	
+}
+
+music = {
+	song = "sr_the_fire_of_the_storm"
+	
+}
+
+music = {
+	song = "sr_trouble_is_brewing"
+	
+}
+
+music = {
+	song = "sr_victory"
+	
+}
+
+music = {
+	song = "sr_villainous"
+	
+}
+
+music = {
+	song = "sr_without_god"
+	
+}
+
